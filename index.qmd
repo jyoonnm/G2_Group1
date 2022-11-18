@@ -4,4 +4,4 @@ title: "G2_Group1"
 
 Welcome to our GIS Project website!
 
-\<short description\>
+\<overview of project\>
