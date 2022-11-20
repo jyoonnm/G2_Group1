@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "G2_Group1"
+  title: "G2-Group1"
   navbar:
     left:
       - href: proposal.html

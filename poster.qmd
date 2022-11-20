@@ -3,4 +3,4 @@ title: "Poster"
 editor: visual
 ---
 
-![](images/G2-Group1%20Poster.jpg){fig-align="center"}
+![Figure 3: G2-Group1 Poster](images/QGIS%20Poster%20(1)-01.jpg){fig-align="center"}

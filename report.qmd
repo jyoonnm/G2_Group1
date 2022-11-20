@@ -1,0 +1,6 @@
+---
+title: "Report"
+editor: visual
+---
+
+[![CLICK ABOVE TO SEE OUR REPORT & METHODOLOGY! 🔼](images/report.jpg){fig-align="center"}](https://drive.google.com/file/d/1yaSbvkoWIfvAqbha8uVfdlI40zPmi57F/view?usp=sharing)

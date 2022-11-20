@@ -1,7 +1,15 @@
 ---
-title: "G2_Group1"
+title: "Home"
 ---
 
-Welcome to our GIS Project website!
+**Welcome to our GIS Project website!**
 
-\<overview of project\>
+# Overview
+
+This research project examines the new Mass Rapid Transit (MRT) line, Thomson-East Coast Line. Our team is interested in Thomson-East Coast Line Stage 4, especially the seven stations between Tanjong Rhu and Bayshore that are scheduled for opening in the Year 2024. We want to understand whether the new Thomson-East Coast Line is still aligned with our original goal of better connecting the city centre and residential districts by comparing it to the older MRT line, the North-South Line specifically from Yio Chu Kang (NE15) to Toa Payoh (NE19).
+
+Our team aims to provide catchment areas based on walking distance of 5, 10, and 15 minutes of each station of the Thomson-East Coast Line and North-South Line and a choropleth map of accessibility to Thomson-East Coast Line stations. We will analyse residential areas at each MRT station and the accessibility of the Thomson-East Coast Line to East Coast Park, and finally, provide insights and justification for the Thomson-East Coast Line objective.
+
+In this project, we applied QQIS methods such as the QNEATS3 tool, the shortest path tool and the analytical hexagon tool. From the analysis, we believe that the Thomson-East Coast Line is indeed aligned with the original goal of better connecting the city centre and residential districts as well as the East Coast Park.
+
+Please check our full report for further analysis!
