@@ -2,11 +2,15 @@
 title: "About"
 ---
 
-This research study is created by the project team from SMU SMT201 Geographic Information Systems for Urban Planning.
+This research study is created by the project team from Singapore Management University SMT201 Geographic Information Systems for Urban Planning.
 
 Instructor: Dr. Kam Tin Seong
 
 ------------------------------------------------------------------------
+
+## Project Github
+
+Please check [this link](https://github.com/jyoonnm/G2_Group1) for our Project Github repository.
 
 ## Our Team
 
